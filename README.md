@@ -1,3 +1,7 @@
+Update 29/10/2024
+Added support for years: 2022, 2023, 2024 (data must be in the database)
+
+
 # Rudolph Tables Calculator
 The Rudolph tables are tables published each year by Prof. Klaus Rudolph for age-appropriate performance evaluation in swimming.
 
