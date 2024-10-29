@@ -1,7 +1,10 @@
 Update 29/10/2024
 Added support for years: 2022, 2023, 2024 (data must be in the database)
 added /parse folder with information how you could parse the pdf with the information and send it to your database
+99% of the updates are done through ChatGPT and CoPilot 
+it is working in my environment (not public yet)
 
+Notice: there could be parse errors in .. so always check it with the master pdf file ;)
 
 
 # Rudolph Tables Calculator
