@@ -1,5 +1,7 @@
 Update 29/10/2024
 Added support for years: 2022, 2023, 2024 (data must be in the database)
+added /parse folder with information how you could parse the pdf with the information and send it to your database
+
 
 
 # Rudolph Tables Calculator
